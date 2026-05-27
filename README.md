@@ -25,15 +25,15 @@ zerohuman-labs が毎日生成する AI 自動生成アプリの一覧ハブ。
 
 | # | アプリ | 種別 | URL |
 |---|---|---|---|
-| 31 | 依存関係グラフビジュアライザ | ツール | https://mock.suyama-corporation.co.jp/dependency-graph-viz-2/ |
-| 32 | Markdown 目次ジェネレータ | ツール | https://mock.suyama-corporation.co.jp/markdown-toc-generator-2/ |
-| 33 | レシピカードビルダー | 生活 | https://mock.suyama-corporation.co.jp/recipe-card-builder-2/ |
-| 34 | 週次ミールプランナー | 生活 | https://mock.suyama-corporation.co.jp/meal-planner-week-2/ |
-| 35 | 売場別買物リスト | 生活 | https://mock.suyama-corporation.co.jp/shopping-list-grouped-2/ |
-| 36 | 日帰り旅程タイムライン | 旅行 | https://mock.suyama-corporation.co.jp/travel-itinerary-day-2/ |
-| 37 | 漢字 筆順なぞり練習 | 学習 | https://mock.suyama-corporation.co.jp/kanji-stroke-trainer-2/ |
-| 38 | 睡眠サイクル逆算 | ヘルスケア | https://mock.suyama-corporation.co.jp/sleep-cycle-calc-2/ |
-| 39 | 封筒予算管理 | ファイナンス | https://mock.suyama-corporation.co.jp/budget-envelope-jar-2/ |
+| 31 | 依存関係グラフビジュアライザ | ツール | https://mock.suyama-corporation.co.jp/dependency-graph-viz/ |
+| 32 | Markdown 目次ジェネレータ | ツール | https://mock.suyama-corporation.co.jp/markdown-toc-generator/ |
+| 33 | レシピカードビルダー | 生活 | https://mock.suyama-corporation.co.jp/recipe-card-builder/ |
+| 34 | 週次ミールプランナー | 生活 | https://mock.suyama-corporation.co.jp/meal-planner-week/ |
+| 35 | 売場別買物リスト | 生活 | https://mock.suyama-corporation.co.jp/shopping-list-grouped/ |
+| 36 | 日帰り旅程タイムライン | 旅行 | https://mock.suyama-corporation.co.jp/travel-itinerary-day/ |
+| 37 | 漢字 筆順なぞり練習 | 学習 | https://mock.suyama-corporation.co.jp/kanji-stroke-trainer/ |
+| 38 | 睡眠サイクル逆算 | ヘルスケア | https://mock.suyama-corporation.co.jp/sleep-cycle-calc/ |
+| 39 | 封筒予算管理 | ファイナンス | https://mock.suyama-corporation.co.jp/budget-envelope-jar/ |
 | 40 | 読書記録トラッカー | ライフログ | https://mock.suyama-corporation.co.jp/reading-tracker-books/ |
 | 41 | 絵文字モザイクペインター | アート | https://mock.suyama-corporation.co.jp/emoji-mosaic-painter/ |
 | 42 | 夜の図書館 テキストアドベンチャー | エンタメ | https://mock.suyama-corporation.co.jp/text-adventure-mini/ |
